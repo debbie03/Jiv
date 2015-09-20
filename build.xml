@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<project name="Ant Hello Git Awesome" basedir="." default="build">
+<project name="Ant Hello Jivi" basedir="." default="build">
 
 <property name="src.dir" location="src" />
 <property name="webxml"  location="${src.dir}/web.xml" />
